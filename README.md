@@ -51,12 +51,6 @@ All models were evaluated on metrics like **accuracy**, **F1-score**, **ROC AUC*
 pip install -r requirements.txt
 ```
 
-#### 2. Train models
-
-```bash
-python src/train.py
-```
-
 #### 3. Make predictions from user input
 
 ```python
