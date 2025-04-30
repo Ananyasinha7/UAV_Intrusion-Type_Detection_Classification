@@ -6,6 +6,12 @@ Here's a professional and clear `README.md` file for your **UAV Intrusion-Type D
 ## 🛰️ UAV Intrusion-Type Detection Classification
 
 A machine learning-based system for detecting and classifying different types of intrusions in UAV (Unmanned Aerial Vehicle) network traffic using statistical features extracted from radio frequency and packet data.
+It classifies the type of Cyber UAV Intrusion as:
+- Belign
+- Replay
+- evil-twin
+- DOS attack
+- FDI
 
 ---
 
@@ -86,6 +92,7 @@ print("Predicted class:", le.inverse_transform([prediction])[0])
 - Scikit-learn
 - NumPy / Pandas
 - Matplotlib / Seaborn (for evaluation)
+- Streamlit
 
 
 
