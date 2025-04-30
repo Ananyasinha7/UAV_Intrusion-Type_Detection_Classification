@@ -7,7 +7,7 @@ Here's a professional and clear `README.md` file for your **UAV Intrusion-Type D
 
 A machine learning-based system for detecting and classifying different types of intrusions in UAV (Unmanned Aerial Vehicle) network traffic using statistical features extracted from radio frequency and packet data.
 It classifies the type of Cyber UAV Intrusion as:
-- Belign
+- Benign
 - Replay
 - evil-twin
 - DOS attack
