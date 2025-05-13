@@ -1,6 +1,6 @@
 ﻿# UAV_Intrusion-Type_Detection_Classification
 Here's a professional and clear `README.md` file for your **UAV Intrusion-Type Detection Classification** project. It assumes you're using machine learning (Gradient Boosting, etc.) to classify intrusion types from UAV network traffic features:
-
+https://uavintrusion-typedetectionclassification-25yjm8psd9pnksqpu7rs3.streamlit.app/
 ---
 
 ## 🛰️ UAV Intrusion-Type Detection Classification
